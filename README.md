@@ -1,0 +1,1 @@
+# gcp-guideline-jp.github.io
